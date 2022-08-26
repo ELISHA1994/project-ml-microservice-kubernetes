@@ -10,3 +10,47 @@ Handling connection for 80
 Handling connection for 80
 Handling connection for 80
 
+❯ ./make_prediction.sh
+Port: 80
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+❯ ./make_prediction.sh
+Port: 80
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+❯ ./make_prediction.sh
+Port: 80
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+❯ ./make_prediction.sh
+Port: 80
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+❯ ./make_prediction.sh
+Port: 80
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+❯ ./make_prediction.sh
+Port: 80
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+
